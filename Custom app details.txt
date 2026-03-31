@@ -1,0 +1,14 @@
+App sceret key: 
+Admin API access token: 
+
+----------------------------------------
+App scopes:  write_files, read_files, write_products, read_products
+----------------------------------------
+
+
+Command list:
+npm install axios
+npm list axios
+npm install axios xlsx csv-writer
+npm install axios xlsx
+node migrate-images.js
