@@ -1,8 +1,8 @@
 const axios = require("axios");
 const xlsx = require("xlsx");
 
-const SHOP = "jinali-cirkle.myshopify.com";
-const ACCESS_TOKEN = "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";
+const SHOP = ".myshopify.com";
+const ACCESS_TOKEN = "shpat_";
 const EXCEL_FILE = "./image_file.xlsx";
 const IMAGE_COLUMN = "Image URL";        // 👈 Your Google Drive URL column
 const CDN_COLUMN = "Shopify Image URL";  // 👈 New column to be added
