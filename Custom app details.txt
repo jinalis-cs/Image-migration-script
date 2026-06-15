@@ -16,3 +16,8 @@ npm list axios
 npm install axios xlsx csv-writer
 npm install axios xlsx
 node migrate-images.js
+
+
+------------------------------------------------------
+Gokwik & shiprocket for checkout page: https://claude.ai/share/ca610208-060d-4724-9300-25e51979cfa8
+------------------------------------
